@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <!-- The library has no permissions of its own; INTERNET, ACCESS_NETWORK_STATE and WAKE_LOCK are declared by
+         app-android's manifest, which Lint checks there. -->
+    <issue id="MissingPermission" severity="ignore" />
+</lint>

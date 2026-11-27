@@ -1,0 +1,17 @@
+ふたちゃ (Futacha)
+Copyright The Futacha contributors
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product includes third-party software. Their copyright notices and
+license texts are shown in the app (Settings > ライセンス) and are kept in:
+
+- shared/src/main/assets/futacha-shared/files/licenses/
+  (VOICEVOX CORE, VOICEVOX ONNX Runtime, VOICEVOX voice model terms,
+   Open JTalk dictionary, ONNX Runtime, OpenCV)
+- shared/src/main/kotlin/ui/compat/CompatibilityReferenceInfoData.kt
+  (FUTACHA_LICENSE_ASSETS: Kotlin, AndroidX, Compose, Ktor, Coil, OkHttp,
+   Protocol Buffers, SLF4J, Reactive Streams and the other libraries)
+
+Firebase, ML Kit, Google Play Billing and Google Play services are provided
+under Google's own terms, not under the Apache License.
